@@ -1,0 +1,29 @@
+/* Green links */
+a.green:link {
+	color: green;
+}
+a.green:visited {
+	color: green;
+}
+a.green:hover {
+	color: gray;
+}
+a.green:active {
+	color: blue;
+}
+
+
+
+/* Blue links */
+a.blue:link {
+	color: blue;
+}
+a.blue:visited {
+	color: blue;
+}
+a.blue:hover {
+	color: gray;
+}
+a.blue:active {
+	color: green;
+}
